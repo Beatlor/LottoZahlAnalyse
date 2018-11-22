@@ -15,6 +15,7 @@
 #include <math.h>
 #include <bitset>
 
+
 using namespace std;
 
 void bsort(uint64_t list[], int size)
