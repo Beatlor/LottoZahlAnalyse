@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		D4FB650F219FFCBB002FD354 /* LottoZahlAnalyse */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LottoZahlAnalyse; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4FB6512219FFCBB002FD354 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		D4FB653A21A86CE9002FD354 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = "en.lproj/alldraws55-17"; sourceTree = "<group>"; };
+		D4FB653A21A86CE9002FD354 /* en */ = {isa = PBXFileReference; lastKnownFileType = text; name = en; path = "en.lproj/alldraws55-18"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				D4FB6512219FFCBB002FD354 /* main.cpp */,
-				D4FB653B21A86CE9002FD354 /* alldraws55-17 */,
+				D4FB653B21A86CE9002FD354 /* alldraws55-18 */,
 			);
 			path = LottoZahlAnalyse;
 			sourceTree = "<group>";
@@ -130,12 +130,12 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D4FB653B21A86CE9002FD354 /* alldraws55-17 */ = {
+		D4FB653B21A86CE9002FD354 /* alldraws55-18 */ = {
 			isa = PBXVariantGroup;
 			children = (
 				D4FB653A21A86CE9002FD354 /* en */,
 			);
-			name = "alldraws55-17";
+			name = "alldraws55-18";
 			path = LottoZahlAnalyse;
 			sourceTree = SOURCE_ROOT;
 		};
