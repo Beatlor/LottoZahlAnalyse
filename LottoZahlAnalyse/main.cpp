@@ -43,7 +43,7 @@ int main(int argc, const char * argv[]) {
     uint64_t Sum[5000], CopySum[5000],MagDig=0;
     uint16_t i=0, j=0, DigitExist=0, Occurences[49],AllBalls=0;
     
-    char F_NAME[] = "/Users/stephan/Documents/LottoZahlen/Lottozahlen55-17.csv";
+    char F_NAME[] = "alldraws55-17";
     ifstream FILE;
     FILE.open (F_NAME, ios::in);
     if (FILE.is_open())
